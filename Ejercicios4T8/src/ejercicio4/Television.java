@@ -1,5 +1,7 @@
 package ejercicio4;
 
-public class Television {
-
+public class Television extends Electrodomestico{
+	
+	
+	
 }
